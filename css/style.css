@@ -31,6 +31,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  font-weight: 500;
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
@@ -45,6 +46,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  font-weight: 500;
 }
 .contacts .link:hover,
 .contacts .link:focus {
@@ -60,7 +62,7 @@ body {
   font-size: 44px;
   line-height: 1.36;
   letter-spacing: 0.06em;
-
+  text-transform: uppercase;
   text-align: center;
 }
 .hero .link {
@@ -99,6 +101,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .our-team {
